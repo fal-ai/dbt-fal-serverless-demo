@@ -1,0 +1,7 @@
+environments:
+  - name: sentiment-analysis
+    type: venv
+    requirements:
+      - transformers
+      - pytorch
+
