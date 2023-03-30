@@ -3,5 +3,5 @@ environments:
     type: venv
     requirements:
       - transformers
-      - pytorch
+      - torch
 
